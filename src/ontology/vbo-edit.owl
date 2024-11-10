@@ -79,6 +79,7 @@ SubAnnotationPropertyOf(<http://purl.obolibrary.org/obo/vbo#local_breed> <http:/
 # Annotation Property: <http://purl.obolibrary.org/obo/vbo#most_common_name> (most common name)
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/vbo#most_common_name> "most common name")
+SubAnnotationPropertyOf(<http://purl.obolibrary.org/obo/vbo#most_common_name> <http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty>)
 
 # Annotation Property: <http://purl.obolibrary.org/obo/vbo#national_breed_population> (national breed population)
 
